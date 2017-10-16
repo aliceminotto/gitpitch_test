@@ -4,6 +4,8 @@
 #### my name here?
 let's say i'm the first slide
 
+Note: say hello to everybody
+
 ---
 
 @title[location]
